@@ -15,6 +15,6 @@ Every exception is a conscious decision to accept risk, so it's crucial to ensur
     1. What exceptions have you encountered that revealed the most about an organisation's security culture?
     2. What's your process for managing exceptions that actually works?
 
-A Positive Example
+### A Positive Example
 
 Jay Parikh, a Microsoft Executive Vice President, was seen with a non-standard laptop, according to the current (at the time of writing) LinkedIn CISO Lea Kissner. She questioned whether it was company-managed to avoid accidentally breaking it with security upgrades. He replied that they should never worry about breaking him (and he was indeed using a company device), demonstrating a positive attitude towards security measures.
