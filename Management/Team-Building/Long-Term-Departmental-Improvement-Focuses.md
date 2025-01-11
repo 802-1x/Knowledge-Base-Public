@@ -17,6 +17,10 @@ Develop a more strategic approach to work by:
 * Empowering team members to make informed decisions
 * Identifying and eliminating unnecessary tasks to optimise workload
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8bfb5d18-1d35-4cc1-bedb-9b1ef04d3cd0" alt="image">
+</p>
+
 4. Develop Trusted Advisors
 
 Enhance your team's reputation and relationships by:
